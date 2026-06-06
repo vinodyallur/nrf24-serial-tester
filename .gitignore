@@ -1,0 +1,15 @@
+# Arduino / arduino-cli build outputs (the ready-to-use bins live in bin/ instead)
+build/
+build_*/
+nrf24_serial_chat/build/
+
+# Loose intermediates (we DO keep the curated binaries under bin/)
+*.elf
+*.map
+
+# Large third-party tool binary (download separately, see flash.ps1 header)
+tools/arduino-cli.exe
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
