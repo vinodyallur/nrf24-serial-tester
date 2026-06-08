@@ -89,3 +89,7 @@ the current spikes the radio makes when transmitting. Full list in
 
 ## License
 MIT — see [LICENSE](LICENSE). Use it freely.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vinodyallur/nrf24-serial-tester&type=Date)](https://star-history.com/#vinodyallur/nrf24-serial-tester&Date)
